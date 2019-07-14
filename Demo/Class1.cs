@@ -16,3 +16,4 @@ namespace Demo
         }
     }
 }
+WriteMessage("你好")；
